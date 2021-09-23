@@ -1,0 +1,7 @@
+C:\Users\ishevchu\source\repos\IlliaShevchuk.AlgosChallange\IlliaShevchuk.AlgosChallange\bin\Debug\IlliaShevchuk.AlgosChallange.dll
+C:\Users\ishevchu\source\repos\IlliaShevchuk.AlgosChallange\IlliaShevchuk.AlgosChallange\bin\Debug\IlliaShevchuk.AlgosChallange.pdb
+C:\Users\ishevchu\source\repos\IlliaShevchuk.AlgosChallange\IlliaShevchuk.AlgosChallange\bin\Debug\Robot.Common.dll
+C:\Users\ishevchu\source\repos\IlliaShevchuk.AlgosChallange\IlliaShevchuk.AlgosChallange\obj\Debug\IlliaShevchuk.AlgosChallange.csproj.AssemblyReference.cache
+C:\Users\ishevchu\source\repos\IlliaShevchuk.AlgosChallange\IlliaShevchuk.AlgosChallange\obj\Debug\IlliaShevchuk.AlgosChallange.csproj.CoreCompileInputs.cache
+C:\Users\ishevchu\source\repos\IlliaShevchuk.AlgosChallange\IlliaShevchuk.AlgosChallange\obj\Debug\IlliaShevchuk.AlgosChallange.dll
+C:\Users\ishevchu\source\repos\IlliaShevchuk.AlgosChallange\IlliaShevchuk.AlgosChallange\obj\Debug\IlliaShevchuk.AlgosChallange.pdb
